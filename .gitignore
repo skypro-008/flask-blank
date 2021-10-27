@@ -1,6 +1,6 @@
 /.idea
 dao/__pycache__
 helpers/__pycache__
-resources/__pycache__
+apis/__pycache__
 .DS_Store
 __pycache__
