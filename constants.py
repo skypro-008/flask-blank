@@ -5,3 +5,7 @@
 
 # CONSTANT_NAME = "value"
 # LOG_DIR = "logs"
+
+DOWN_PAYMENT = 0.2
+ANNUAL_RATE = 0.3
+PAGES_PER_MINUTE = 1.75
